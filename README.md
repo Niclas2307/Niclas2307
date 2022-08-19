@@ -8,7 +8,7 @@ Discord Bot and App Developer
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [astral@mtdv.me](mailto:astral@mtdv.me)
-* 🚀  I'm currently working on [Would You Presence](http://wouldyoubot.com)
+* 🚀  I'm currently working on [Would You Support Bot](https://discord.gg/vMyXAxEznS)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Discord Bots
 
