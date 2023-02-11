@@ -7,7 +7,7 @@ Discord Bot and App Developer
 -----------------------------
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [astral@mtdv.me](mailto:astral@mtdv.me)
+* ✉️  You can contact me at [contact@niclaspy.tech](mailto:contact@niclaspy.tech)
 * 🚀  I'm currently working on [Would You Support Bot](https://discord.gg/vMyXAxEznS)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Discord Bots
